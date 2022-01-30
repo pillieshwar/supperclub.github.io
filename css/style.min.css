@@ -437,7 +437,7 @@ a:hover {
 #gtco-special-dishes .special-number {
   position: relative;
   font-size: 60px; }
-  #gtco-special-dishes .special-number:after {
+  /* #gtco-special-dishes .special-number:after {
     content: '';
     position: absolute;
     top: 50%;
@@ -445,7 +445,7 @@ a:hover {
     left: 90px;
     width: 200px;
     height: 1px;
-    background: #000; }
+    background: #000; } */
 
 #gtco-special-dishes h3 span {
   color: #f34949; }
